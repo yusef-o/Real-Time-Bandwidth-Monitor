@@ -1,0 +1,1 @@
+This Python code monitors and shows real-time network bandwidth usage, including data received, sent, and total traffic in megabytes. It’s a useful tool for tracking how much data your device is sending and receiving live over the network.
